@@ -1,0 +1,351 @@
+canonical_identifier: bkk:krp/KR6i0555/v1
+canonical_location: https://kanripo.org/bkk/KR6i0555/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 圓覺經大疏
+  identifiers:
+    alt_id:
+    - X09n0243
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X09/X09n0243.xml
+    old_id: X09n0243
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: 嘉興乙-CB
+  label: 嘉興乙-CB
+  source_xml_id: wit4
+- short: 龍-CB
+  label: 龍-CB
+  source_xml_id: wit2
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0555_000.yaml, hash: 'sha256:b74f2b37806062aacaba99d2811904766a637eb9560975a4b690f70f330dbe74'}
+  - {seq: 2, filename: KR6i0555_002.yaml, hash: 'sha256:2cb75956c901654c01948faea7cf6109947a2d4b6717e564be851b3f553deaa7'}
+  - {seq: 3, filename: KR6i0555_003.yaml, hash: 'sha256:b4fa82428bc683ec25f929ee1bc90770ffd3bfdc2f5ab5ca191d2c25dd0eb694'}
+  - {seq: 4, filename: KR6i0555_004.yaml, hash: 'sha256:bd8a205fa12d48d465f53ecffddcb861a14a4617d99f7903a314d0e2b2fbce4a'}
+  - {seq: 5, filename: KR6i0555_005.yaml, hash: 'sha256:b80a4d9bd20da087af3a9704bdc05fbbf394d12d77557b19f3aa8d5d5d0689ef'}
+  - {seq: 6, filename: KR6i0555_006.yaml, hash: 'sha256:ef508f563327c10590668c82fb633ae9e23f81c69667532eb38a4ac2f240f0b4'}
+  - {seq: 7, filename: KR6i0555_007.yaml, hash: 'sha256:5b7686cba319710ab4ca406d58486399a2c3b9e5effaac75a2053b6668244452'}
+  - {seq: 8, filename: KR6i0555_008.yaml, hash: 'sha256:fc03f2fed248230de1856b506798247016847f1dfd4e94d67cb6124c70f70ae9'}
+  - {seq: 9, filename: KR6i0555_009.yaml, hash: 'sha256:c2a530f52ec87e2ab2d6f58bb3238e4243d5bca65d6d6ee66d30f25826a32564'}
+  - {seq: 10, filename: KR6i0555_010.yaml, hash: 'sha256:ddb0b30b8db2bed3f3756f51bcf907fd5ceda9ae18f4747a58f71fd18da2c2be'}
+  - {seq: 11, filename: KR6i0555_011.yaml, hash: 'sha256:abbb60a8fd3845f2bc5ced8b67b7441603a3a5d6c44eac2bde25b084283ae03b'}
+  - {seq: 12, filename: KR6i0555_012.yaml, hash: 'sha256:cee475a4cab7fb6f3c3148b8a6bd0be258cf3085d62aa35ce6a9c7b92ddad500'}
+  - {seq: 13, filename: KR6i0555_013.yaml, hash: 'sha256:de31e95136881d23e4c7126746ea3584c3d0ff29245f4ef347c3e6641177560b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0555_000.markers.yaml, hash: 'sha256:7e1b29359b45dff653248b49dfdf4ea065d23b99a12b37381e6aebbc4dd8fc6d'}
+  - {seq: 2, role: markers, filename: assets/KR6i0555_002.markers.yaml, hash: 'sha256:3d81802ae4ec0052675b2286e99264c6a741cfd8696ba2cf2d6b54aac48debc4'}
+  - {seq: 3, role: markers, filename: assets/KR6i0555_003.markers.yaml, hash: 'sha256:bc3acd9d4d3bf798c10bba4c5fab28e220d33673b46ee39143afda352eec95be'}
+  - {seq: 4, role: markers, filename: assets/KR6i0555_004.markers.yaml, hash: 'sha256:54fa5752530b0d435227911a09d9704907ac1e11223fd04c4d5348a70ed846a5'}
+  - {seq: 5, role: markers, filename: assets/KR6i0555_005.markers.yaml, hash: 'sha256:3f9a038168f520e80bd6ddd531abd754b91ef3012d63edea44b760b7c45c8482'}
+  - {seq: 6, role: markers, filename: assets/KR6i0555_006.markers.yaml, hash: 'sha256:79592d6c896b77ac9d20330a757a5a10cf54ad0ee716c9a8dfd0f304ffb137c3'}
+  - {seq: 7, role: markers, filename: assets/KR6i0555_007.markers.yaml, hash: 'sha256:10aa523c35b1f42753c7b03eb527490cf93eed0479d1b5f87c7ba168861fe63a'}
+  - {seq: 8, role: markers, filename: assets/KR6i0555_008.markers.yaml, hash: 'sha256:9d2a0518e1e58073dcc0a81534724ebf60332c32fbbd78d3dc87b5528dcd8b44'}
+  - {seq: 9, role: markers, filename: assets/KR6i0555_009.markers.yaml, hash: 'sha256:de0cff63372392d2c27be7279a4ea7660485680a33a142a06af39f5fd990b8b7'}
+  - {seq: 10, role: markers, filename: assets/KR6i0555_010.markers.yaml, hash: 'sha256:7cfae83965c44db9e5b11b048ce0f4ebb342b327b5ea0952df1958036f43a36a'}
+  - {seq: 11, role: markers, filename: assets/KR6i0555_011.markers.yaml, hash: 'sha256:fbee29a1732c7d3fd10f3898efca00c63351f7cc5ccd29611ded941043d75c0a'}
+  - {seq: 12, role: markers, filename: assets/KR6i0555_012.markers.yaml, hash: 'sha256:b7f542a26adbc248264bdbb1699c44150e71db8e1b968a7abfcfd0d0b0da02d5'}
+  - {seq: 13, role: markers, filename: assets/KR6i0555_013.markers.yaml, hash: 'sha256:5bf0d6bbc22d872b6fb6045f3c9731dd73c424cba996627e8763e11020efc0a8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0555_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 243-A 大方廣圓覺經疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0555_X_000-mulu-2
+    span:
+    - front
+    - 1019
+    - 1019
+  label: No. 243-B 大方廣圓覺經大疏(本序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0555_X_000-mulu-3
+    span:
+    - front
+    - 1890
+    - 1890
+  label: 大方廣圓覺經大疏目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0555_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 10018
+  label: 大方廣圓覺經大疏上卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0555_X_1a-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0555_X_1a-mulu-2
+    span:
+    - body
+    - 159
+    - 159
+  label: 一教起因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0555_X_1a-mulu-3
+    span:
+    - body
+    - 1198
+    - 1198
+  label: 二藏乘分攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0555_X_1a-mulu-4
+    span:
+    - body
+    - 3769
+    - 3769
+  label: 三權實對辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 11621
+  label: 大方廣圓覺經大疏上卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 四分齊幽深
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-2
+    span:
+    - body
+    - 1288
+    - 1288
+  label: 五所被機宜
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-3
+    span:
+    - body
+    - 1827
+    - 1827
+  label: 六能詮體性
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-4
+    span:
+    - body
+    - 2924
+    - 2924
+  label: 七宗趣通別
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-5
+    span:
+    - body
+    - 4217
+    - 4217
+  label: 八修證階差
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-6
+    span:
+    - body
+    - 4850
+    - 4850
+  label: 九敘昔翻傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-7
+    span:
+    - body
+    - 5145
+    - 5145
+  label: 十隨文解釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-8
+    span:
+    - body
+    - 5194
+    - 5194
+  label: 初解題目
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0555_X_1b-mulu-9
+    span:
+    - body
+    - 7743
+    - 7743
+  label: 後釋本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0555_X_1c-juan-start
+    span:
+    - body
+    - 0
+    - 10413
+  label: 大方廣圓覺經大疏上卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0555_X_1d-juan-start
+    span:
+    - body
+    - 0
+    - 11097
+  label: 大方廣圓覺經大疏上卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0555_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 10782
+  label: 大方廣圓覺經大疏中卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0555_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 9810
+  label: 大方廣圓覺經大疏中卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0555_X_2c-juan-start
+    span:
+    - body
+    - 0
+    - 12779
+  label: 大方廣圓覺經大疏中卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0555_X_2d-juan-start
+    span:
+    - body
+    - 0
+    - 12657
+  label: 大方廣圓覺經大疏中卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0555_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 11401
+  label: 大方廣圓覺經大疏下卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0555_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 9337
+  label: 大方廣圓覺經大疏下卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0555_X_3c-juan-start
+    span:
+    - body
+    - 0
+    - 6297
+  label: 大方廣圓覺經大疏下卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6i0555_X_3d-juan-start
+    span:
+    - body
+    - 0
+    - 9906
+  label: 大方廣圓覺經大疏下卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6i0555_X_3d-mulu-1
+    span:
+    - body
+    - 9746
+    - 9746
+  label: No. 243-C
+  type: mulu
+  level: 1
+hash: sha256:c6fafcc68839b2dd11777bcf890d62d3f0284cda6063ad7f02ef92ac73562094
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
